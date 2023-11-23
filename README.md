@@ -1,4 +1,4 @@
-# Documentazione!!!
+# Documentazione
 
 Benvenuto nella nostra pagina di documentazione informatica. Troverai guide dettagliate, tutorial e risorse utili per navigare nel mondo dell'informatica.
 
