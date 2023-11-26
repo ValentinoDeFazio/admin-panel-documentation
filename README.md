@@ -1,6 +1,6 @@
 # Documentazione
 
-Benvenuto nella nostra pagina di documentazione informatica. Troverai guide dettagliate, tutorial e risorse utili per navigare nel mondo dell'informatica.
+Benvenuto nella pagina di documentazione. Troverai guide dettagliate, tutorial e risorse utili per navigare nel mondo dell'informatica.
 
 ## Indice
 
@@ -126,7 +126,7 @@ Per utilizzare questa variabile d'ambiente, ti basterà inserire la seguente rig
 <?php define("ONLINE", boolval(getenv("ONLINE"))); ?>
 ```
 
-Verrà quindi definita la costante booleana <u>***ONLINE***</u> che potrai usare nelle tue condizioni: 
+Verrà quindi definita la costante booleana <u>***ONLINE***</u> che potrai usare nelle tue condizioni:
 
 ```php
 <?php define("ONLINE", boolval(getenv("ONLINE"))); ?>
@@ -138,11 +138,11 @@ Verrà quindi definita la costante booleana <u>***ONLINE***</u> che potrai usare
         <meta charset="utf-8">
         <title>Ambiente</title>
     </head>
-    
+
     <body>
         <h1>Ambiente: <?php echo ONLINE ? "Server" : "Locale"; ?></h1>
     </body>
-    
+
 </html>
 ```
 
