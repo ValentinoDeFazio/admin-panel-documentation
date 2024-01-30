@@ -4,8 +4,8 @@ Benvenuto nella pagina di documentazione. Troverai guide dettagliate, tutorial e
 
 ## Indice
 
-- [**Come strutturare un sito web statico**](#come-strutturare-un-sito-statico)
-- [**Come strutturare un sito web dinamico**](#come-strutturare-un-sito-dinamico)
+- [**Come strutturare un sito web statico**](#come-strutturare-un-sito-web-statico)
+- [**Come strutturare un sito web dinamico**](#come-strutturare-un-sito-web-dinamico)
 - [**Variabili d'ambiente**](#variabili-dambiente)
     * [**Online**](#online)
 - [**Come collegarsi al proprio database**](#come-collegarsi-al-proprio-database)
